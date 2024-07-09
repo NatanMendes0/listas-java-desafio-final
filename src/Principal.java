@@ -26,6 +26,7 @@ public class Principal {
             } else {
                 System.out.println("Saldo insuficiente!");
                 sair = 0;
+                leitura.close();
             }
         }
 
