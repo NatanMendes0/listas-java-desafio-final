@@ -40,3 +40,4 @@ Este projeto é uma aplicação Java que simula um sistema de compras com cartã
 
 ### Obrigado pela atenção!
 
+[Certificado do curso](https://cursos.alura.com.br/certificate/71e47d0a-67b1-4163-afdf-a136ee277847)
